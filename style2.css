@@ -1,0 +1,27 @@
+h2{
+    font-family:monospace;
+    color:azure
+}
+p{
+    color:blueviolet;
+}
+ul{
+    font-family: ariel;
+
+}
+
+.muhallebi{
+    color: brown;
+}
+.SA{ 
+    color: aqua
+    
+}
+body{
+    text-align:justify;
+    margin:auto;
+    display: block;
+    width: auto;
+    background-image: url(https://i.pinimg.com/736x/26/7f/70/267f709e4c8b696957ebf9f187c0d344--iphone-backgrounds-phone-wallpapers.jpg);
+    background-size: cover
+}
